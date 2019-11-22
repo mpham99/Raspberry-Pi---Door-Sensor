@@ -1,0 +1,3 @@
+WARNING: The door has been open for more than 30 seconds
+
+The door was opened at ${DATE_TIME}
